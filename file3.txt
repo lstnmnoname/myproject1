@@ -1,1 +1,4 @@
-asssasa
+file3
+rm fil2
+
+dirdirdirdirdirdir
