@@ -1,2 +1,29 @@
+<<<<<<< HEAD
 asssasa
 new branch add for new users
+=======
+html: ,<<
+
+dir
+ls -lm
+cid rit
+1212322134213
+23
+234
+34
+234
+234
+
+234
+2342134234
+
+dfsfdsf
+s
+fsdf
+sdf
+ds
+fds
+f
+dfdsffsd
+salom commit
+>>>>>>> fix
