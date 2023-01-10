@@ -1,4 +1,7 @@
 file3
-rm fil2
+
 
 dirdirdirdirdirdir
+router IOS 
+link double
+
